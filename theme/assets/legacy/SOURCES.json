@@ -1,4 +1,97 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Baroque Art's virtual exhibition Languages of Baroque (exhibitions/BAR/languages_baroque/), each file as legacy serves it, byte for byte; the curators' and the designer's logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/bg_fading_left.gif",
+      "sha256": "86f3f7f180f28c51b9ce162ca77236efce557c048be9c909319ae4513e6bbd16"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/bg_fading_right.gif",
+      "sha256": "a248b1e3fcb399905d9f52e02f35df01d3987af38b62296d8fca39cb32120ab8"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/exhibition_bg_ar.jpg",
+      "sha256": "0253375f8aca10a47bee5181b740e152ac96e0770af0a4be8dc028d5f36f0097"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/exhibition_bg.jpg",
+      "sha256": "ec3fa23eed5dbc2a68da96da5172accf099da0c0d17375cef062fe284fde9c48"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/home_bg_ar.jpg",
+      "sha256": "a4403a79d240aeffc4e299dc6242eca4347b7a24e810d5b6792aa73df69fbf48"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/home_bg.jpg",
+      "sha256": "abddf41f6c6235159c2cd5866912d134a59f356a161ae81ecfcd0fbe8e882960"
+    },
+    "theme/assets/legacy/HR-48.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/HR-48.png",
+      "sha256": "e01d45120c2f1789bd16d886fb738eabf890507ae57d6da68227950b73e36025"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/intro_bg_ar.jpg",
+      "sha256": "2d761f57d916a34b654f6ecdfdcab6ad566bebabf70ac8ea1de7c59695faca43"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/intro_bg.jpg",
+      "sha256": "6cbdca8850619155919a286a83e44093b9c0a47d15204564fe1205b28acece9e"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_ar.gif",
+      "sha256": "666094c49f08bb714ea23f526aaa458964963982dc9ad91cd7989c8efc0273b8"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_de.gif",
+      "sha256": "a06f608ece36414ba54c95eee8948e9e48a7e16aaa6ad8a02268bc07a073a469"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_en.gif",
+      "sha256": "30cafaa2445532b50d631e7f4a14425a47cccb434f6f79a9165bd81d1092eef0"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_es.gif",
+      "sha256": "7e338a41a79bd5b8678e25231424a0840892dcc77d0c0a49ff4c5951ba95846e"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_fr.gif",
+      "sha256": "5a6e816e95617b388464053c3a3ec1b7174e63fc98dd6b75df4c8782b2c95cfd"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_it.gif",
+      "sha256": "c43fc7c117bc696c64f140c246381529527985d230992d91e0fbc20c2af41fac"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_pt.gif",
+      "sha256": "6d967aec094af22ddf8e16f8dc899a8516dec3a2fa820f721bfc8a2c928f9863"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/logo_tr.gif",
+      "sha256": "15b7fdd56295386d250cbfe59699c755b3aa21cd9c32eb52661fa81b62d5f572"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/yasar.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/yasar.png",
+      "sha256": "36d460d80fb84e7345b7bedc6d605412feef3cb6f284d5f45431b8e4b1064757"
+    }
+  }
 }
