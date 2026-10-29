@@ -1,6 +1,20 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://baroqueart.museumwnf.org/exhibitions/BAR/languages_baroque/",
+  "family": "BAR",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "31de84d4-3de2-5ea1-b1d4-c8712cbcb314",
+      "place": "Zagreb",
+      "country": "hrv",
+      "logo": "legacy/HR-48.png",
+      "space": 35
+    }
+  ],
+  "design": {
+    "name": "Yasar University Izmir, Turkey",
+    "logo": "legacy/yasar.png",
+    "href": "http://www.yasar.edu.tr/en/"
+  },
   "maps": 0
 }
